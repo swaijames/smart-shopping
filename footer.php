@@ -114,9 +114,9 @@
                             </div>
                             <div class="footer-link order-link">
                                 <ul>
-                                    <li><a href="order.html">Track Order</a></li>
-                                    <li><a href="cart.html">Delivery & Returns</a></li>
-                                    <li><a href="about.html">Warranty</a></li>
+                                    <li><a href="order.php">Track Order</a></li>
+                                    <li><a href="cart.php">Delivery & Returns</a></li>
+                                    <li><a href="about.php">Warranty</a></li>
                                 </ul>
                             </div>
 
@@ -129,7 +129,7 @@
                             </h4>
                             <div class="footer-link about-link">
                                 <ul>
-                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="about.php">About Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -141,9 +141,9 @@
                             </h4>
                             <div class="footer-link useful-link">
                                 <ul>
-                                    <li><a href="about.html">Secure Payment</a></li>
-                                    <li><a href="privacy.html">Privacy Policy</a></li>
-                                    <li><a href="terms.html">Terms of Use</a></li>
+                                    <li><a href="about.php">Secure Payment</a></li>
+                                    <li><a href="privacy.php">Privacy Policy</a></li>
+                                    <li><a href="terms.php">Terms of Use</a></li>
                                 </ul>
                             </div>
                         </div>
